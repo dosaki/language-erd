@@ -1,12 +1,17 @@
 {
   "name": "language-erd",
   "version": "0.0.0",
-  "description": "A short description of your language package",
+  "description": "Syntax highlighter for .erd files",
   "keywords": [
     "language",
-    "grammar"
+    "grammar",
+    "erd",
+    "entity",
+    "relationship",
+    "diagram",
+    "model"
   ],
-  "repository": "https://github.com/atom/language-erd",
+  "repository": "https://github.com/dosaki/language-erd",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
