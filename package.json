@@ -1,6 +1,6 @@
 {
   "name": "language-erd",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Syntax highlighter for .erd files",
   "keywords": [
     "language",
